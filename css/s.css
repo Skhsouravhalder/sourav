@@ -1,0 +1,22 @@
+.blog{
+    background-color: aqua;
+    border: 5px solid gold; 
+    margin: 10px 50px 10px;
+    /* border-top: none; */
+    /* box-shadow:  2px  rgb(211, 73, 14); */
+    border-radius: 10px;
+    border-right:20px solid red;
+    /* Spadding: 10px 30px 20px; */
+    padding: 10px;
+}
+#footer{
+    text-align:center;
+    display: block;
+    font-size: larger;
+    color: #e01515;
+}
+h1,h3,h4{
+    text-align: center;
+    margin: 0%;
+    text-decoration: underline;
+}
